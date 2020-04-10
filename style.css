@@ -1,0 +1,239 @@
+#main{
+    margin-left: 40%;
+    justify-content: center;
+    margin-top: 20%;
+    border-style:solid;
+    border-color:whitesmoke;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    width:20%;
+    background-color: grey;
+}
+
+#pressed{
+    width:150px;
+    height:40px;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-color: whitesmoke;
+
+}
+
+#div1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;    
+    
+}
+
+#div2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+#div3{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+#div4{
+
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+
+}
+
+#seven{
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+
+#eight{
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+
+
+#nine{
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+
+
+
+#plus{
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+
+#six{
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+
+#five{
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+
+}
+#four{
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+
+#minus{
+
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+
+#one{
+
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+#two{
+
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+
+#three{
+
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+
+#multiply{
+
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+#percentage{
+
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+#equal{
+
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+#clear{
+
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+#point{
+
+    border-style: solid;
+    border-radius: 5px;
+    border-color:wheat;
+    background-color:wheat;
+    color: black;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
